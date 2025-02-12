@@ -1,0 +1,1 @@
+the dataset is [here](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
